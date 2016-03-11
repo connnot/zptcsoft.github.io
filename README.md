@@ -15,5 +15,6 @@ Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等�
 
 ### 软件152
 [39王丽娜](https://github.com/waseni/waseni.github.io)  
-[40童伟键](https://github.com/twjznb/twjznb.github.io) 
 
+### 软件152
+[31王志斌](https://github.com/connnot/connnot.github.io) 
